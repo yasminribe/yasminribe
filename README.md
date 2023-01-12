@@ -1,12 +1,7 @@
 ### Olá eu sou a Yasmin Ribeiro 👋
 
-<div>
-<a href="https://github.com/yasminribe">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=yasminribe&show_icons=true&theme=radical"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminribe&layout=compact&theme=radical"
-</div>
 
-## 
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Html" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
